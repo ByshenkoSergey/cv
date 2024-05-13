@@ -60,7 +60,7 @@ const Education = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          This is my education as well as courses that helped me become who I am now 
+          This is my education that helped me become who I am now 
           and gave me the opportunity to do what I really love! 
         </motion.p>
       </div>

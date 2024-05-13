@@ -85,12 +85,12 @@ const Hero = () => {
           SQS, SNS, EventBridge and sort like that.
         </p>
         <p className={`${styles.sectionSubText} mt-5`} >
-          I'm a quick learner and collaborate closely with clients to
+          I'm a quick learner and collaborate closely with customers to
           create efficient, scalable, and user-friendly solutions that solve
           real-world problems.
         </p>
         <p className={`${styles.sectionSubText} mt-5`} >
-          That`s my professional approach:
+          That`s my main soft skills:
         </p>
       </div>
       

@@ -57,7 +57,7 @@ const About = () => {
         I have strong knowlage about Object Oriented Programming and SOLID principles. In my work process
         I often use Patterns of programming as well as Test Driven Development. My experience includes 
         work with .Net Core, .Net 7, React, Angular frameworks. AWS services like Lambda, StepFunction,
-        Dynamo db, SQS, SNS, ES2 etc as well. Also I have good experience with Terraform when I worked 
+        Dynamo db, SQS, SNS, ES2 etc as well. Also I have got good experience with Terraform when I worked 
         with AWS services.  
       </motion.p>
 

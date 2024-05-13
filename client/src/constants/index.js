@@ -182,9 +182,9 @@ import {
       points: [
         "Developing and maintaining web application using .Net 6, AWS services, Snowflake and other related technologies.",
         "Collaborating with cross-functional teams including other developers, QA,  DevOps, Solution Architect, Business Analist and Product owner.",
-        "Creating new features. Working with Snowflake. Creating Lumbda function, Step function on AWS",
+        "Creating new features. Working with Snowflake. Creating Lambda function, Step function on AWS",
         "Working with DynamoDB, SQS, SNS, ECS(Fargate), IAM, Parameter Store, Secrets Manager, S3, EventBridge.",
-        "Creatig Lambda for auto rotate API key in ather lambdas.",
+        "Creatig Lambda for auto rotate API key in other lambdas.",
         "Description of AWS services in Terraform.",
         "Creating lambdas using Python",
         "Participating in code reviews, creating Unit and Component tests.",
