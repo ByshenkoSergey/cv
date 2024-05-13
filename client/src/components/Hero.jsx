@@ -5,7 +5,7 @@ import {Tilt} from "react-tilt";
 import { styles } from "../styles";
 import { photo } from "../assets";
 import { fadeIn } from "../utils/motion";
-import { softSkills } from "../constants";
+import { softSkills, linkedinUrl } from "../constants";
 
 const SoftSkillCard = ({ index, title, icon }) => (
   <Tilt className='sm:w-[200px] w-[150px]'>
@@ -49,9 +49,13 @@ const Hero = () => {
             rounded-[20px] shadow-card'
           >
             <div
-            className=" bg-tertiary w-full rounded-[20px] overflow-hidden"
+              onClick={() => window.open(linkedinUrl, "_blank")}
+              className=" bg-tertiary w-full rounded-[20px] overflow-hidden hover:scale-150"
             >
-              <img src={photo} alt='photo' className='w-full object-contain' />
+              <img 
+                src={photo} 
+                alt='main-photo' 
+                className='w-full object-contain cursor-pointer' />
             </div>
         </div>
         

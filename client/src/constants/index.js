@@ -32,6 +32,8 @@ import {
     specialist_bottom
   } from "../assets";
   
+  const linkedinUrl = "https://www.linkedin.com/feed/";
+
   const softSkills = [
     {
       title: "Communication",
@@ -367,4 +369,4 @@ import {
     
   ];
   
-  export { services, softSkills, technologies, experiences, testimonials, projects, education };
+  export { linkedinUrl, services, softSkills, technologies, experiences, testimonials, projects, education };
