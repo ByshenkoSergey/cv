@@ -32,7 +32,7 @@ import {
     specialist_bottom
   } from "../assets";
   
-  const linkedinUrl = "https://www.linkedin.com/feed/";
+  const linkedinUrl = "https://www.linkedin.com/in/serhii-byshenko-23a0bb194/";
 
   const softSkills = [
     {
